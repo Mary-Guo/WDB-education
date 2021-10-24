@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https://github.com/Mary-Guo/WDB-education.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/https://github.com/Mary-Guo/WDB-education.git/static/js/main.95a90872.chunk.js",
+    "main.js.map": "/https://github.com/Mary-Guo/WDB-education.git/static/js/main.95a90872.chunk.js.map",
+    "runtime-main.js": "/https://github.com/Mary-Guo/WDB-education.git/static/js/runtime-main.302b5242.js",
+    "runtime-main.js.map": "/https://github.com/Mary-Guo/WDB-education.git/static/js/runtime-main.302b5242.js.map",
+    "static/js/2.fea81b95.chunk.js": "/https://github.com/Mary-Guo/WDB-education.git/static/js/2.fea81b95.chunk.js",
+    "static/js/2.fea81b95.chunk.js.map": "/https://github.com/Mary-Guo/WDB-education.git/static/js/2.fea81b95.chunk.js.map",
+    "static/js/3.fbe48f7a.chunk.js": "/https://github.com/Mary-Guo/WDB-education.git/static/js/3.fbe48f7a.chunk.js",
+    "static/js/3.fbe48f7a.chunk.js.map": "/https://github.com/Mary-Guo/WDB-education.git/static/js/3.fbe48f7a.chunk.js.map",
+    "index.html": "/https://github.com/Mary-Guo/WDB-education.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/https://github.com/Mary-Guo/WDB-education.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.fea81b95.chunk.js.LICENSE.txt": "/https://github.com/Mary-Guo/WDB-education.git/static/js/2.fea81b95.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https://github.com/Mary-Guo/WDB-education.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.302b5242.js",
+    "static/js/2.fea81b95.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.95a90872.chunk.js"
+  ]
+}
